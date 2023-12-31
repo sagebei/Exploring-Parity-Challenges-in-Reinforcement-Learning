@@ -1,0 +1,9 @@
+Test: 0.9931640625, Train: 0.828125, Steps: 48000
+Test: 0.95078125, Train: 0.8359375, Steps: 62500
+Test: 0.971484375, Train: 0.8125, Steps: 67800
+Test: 0.9884765625, Train: 0.8984375, Steps: 78200
+Test: 0.9513671875, Train: 0.90625, Steps: 85400
+Test: 0.955859375, Train: 0.9140625, Steps: 86600
+Test: 0.953125, Train: 0.90625, Steps: 104400
+Test: 0.9509765625, Train: 0.8125, Steps: 104400
+Test: 0.957421875, Train: 0.8828125, Steps: 233800
